@@ -6,6 +6,7 @@ This Power BI dashboard delivers executive-level insights into customer churn fo
 ## 🧰 Tech Stack
 - **Power BI**: Interactive dashboard design, KPI cards, slicers, and layout logic
 - **DAX**: Advanced measures for churn/retention ratios, conditional formatting, and UNICHAR indicators
+- **GitHub**: Version control and project publishing
 
 ## 🗂️ Data Source
 - <a href = "https://github.com/ms25-exp/Ecommerce_Customer_Churn_Analysis/blob/main/ecommerce_customer_data_custom_ratios.csv"> Dataset</a>
@@ -29,27 +30,27 @@ To provide actionable insights into churn behavior, enabling business leaders to
 
 ## 🖼️ Slide-by-Slide Walkthrough
 
-### 🔹 Slide 1: Executive Summary
-- High-level KPIs: Total Customers, Churn Rate, Retention Rate
-- Arrow indicators for trend comparison
-- Clear snapshot of business health
+### 🔹 Slide 1: Ecommerce Customer Churn Overview
+- KPIs: Total Customers, Churn %, Retention %, Retention Prediction
+- Revenue metrics with YOY growth and category breakdown
+- Monthly churn trends across 2020–2023
 <img width="971" height="537" alt="Visual 1" src="https://github.com/user-attachments/assets/2abe0bd7-3c94-4616-bc7f-606693df2d7f" />
 
-### 🔹 Slide 2: Segment Analysis
-- Slicers for Region, Product Category, Tenure
-- Visual breakdown of churn distribution across segments
-- Helps identify where churn is concentrated
+### 🔹 Slide 2: Customer Analysis
+- KPIs: Customer count, AOV, Retention %, Churn %
+- Charts: Active vs Churn pie, Age group vs Revenue, Gender split by Revenue
+- Stacked bar: Churn distribution by age group and gender
 <img width="975" height="543" alt="Visual 2" src="https://github.com/user-attachments/assets/983afd72-c2db-43df-a30d-46cd23e43e3f" />
 
-### 🔹 Slide 3: Retention vs Churn Comparison
-- Bar/column charts comparing retained vs churned customers
-- Highlights behavioral patterns and segment performance
+### 🔹 Slide 3: Product Revenue & Return Analysis
+- KPIs: Total Revenue, Most Sold & Returned Categories, Return Rate
+- Visuals: Revenue by category, Return risk matrix, Performance table
+- Yearly revenue performance (2020–2023) with YoY trends
 <img width="959" height="543" alt="Visual 3" src="https://github.com/user-attachments/assets/85c02f53-47ca-4641-89ea-188df2d04355" />
 
-### 🔹 Slide 4: Filter Panel & Navigation
-- Contextual slicers synced across visuals
-- Clean layout with intuitive navigation
-- Enhances user experience and interactivity
+### 🔹 Slide 4: Customer Churn & Retention Trends
+- KPIs: Churn count, Churn %, Retention %, Revenue
+- Funnel: Customer distribution
 <img width="959" height="543" alt="Visual 4" src="https://github.com/user-attachments/assets/6706d0d2-efa9-42ee-a991-063f7d49e380" />
 
 ## 📈 Business Impact & Insights
