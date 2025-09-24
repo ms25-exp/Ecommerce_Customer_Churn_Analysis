@@ -33,7 +33,7 @@ To provide actionable insights into churn behavior, enabling business leaders to
 - High-level KPIs: Total Customers, Churn Rate, Retention Rate
 - Arrow indicators for trend comparison
 - Clear snapshot of business health
-- <a href="https://raw.githubusercontent.com/ms25-exp/Ecommerce_Customer_Churn_Analysis/refs/heads/main/Visual%201.png"> </a>
+<img width="971" height="537" alt="Visual 1" src="https://github.com/user-attachments/assets/2abe0bd7-3c94-4616-bc7f-606693df2d7f" />
 
 ### 🔹 Slide 2: Segment Analysis
 - Slicers for Region, Product Category, Tenure
@@ -44,13 +44,13 @@ To provide actionable insights into churn behavior, enabling business leaders to
 ### 🔹 Slide 3: Retention vs Churn Comparison
 - Bar/column charts comparing retained vs churned customers
 - Highlights behavioral patterns and segment performance
-- <a href="https://github.com/ms25-exp/Ecommerce_Customer_Churn_Analysis/blob/main/Visual%203.png">View Dashboard </a>
+<img width="959" height="543" alt="Visual 3" src="https://github.com/user-attachments/assets/85c02f53-47ca-4641-89ea-188df2d04355" />
 
 ### 🔹 Slide 4: Filter Panel & Navigation
 - Contextual slicers synced across visuals
 - Clean layout with intuitive navigation
 - Enhances user experience and interactivity
-- <a href ="https://github.com/ms25-exp/Ecommerce_Customer_Churn_Analysis/blob/main/Visual%204.png">View Dashboard </a>
+<img width="959" height="543" alt="Visual 4" src="https://github.com/user-attachments/assets/6706d0d2-efa9-42ee-a991-063f7d49e380" />
 
 ## 📈 Business Impact & Insights
 - Revealed that high-value customers in certain regions had elevated churn risk
