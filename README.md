@@ -39,7 +39,7 @@ To provide actionable insights into churn behavior, enabling business leaders to
 - Slicers for Region, Product Category, Tenure
 - Visual breakdown of churn distribution across segments
 - Helps identify where churn is concentrated
-- <a href="https://github.com/ms25-exp/Ecommerce_Customer_Churn_Analysis/blob/main/Visual%202.png">View Dashboard </a>
+<img width="975" height="543" alt="Visual 2" src="https://github.com/user-attachments/assets/983afd72-c2db-43df-a30d-46cd23e43e3f" />
 
 ### 🔹 Slide 3: Retention vs Churn Comparison
 - Bar/column charts comparing retained vs churned customers
