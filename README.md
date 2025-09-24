@@ -33,7 +33,7 @@ To provide actionable insights into churn behavior, enabling business leaders to
 - High-level KPIs: Total Customers, Churn Rate, Retention Rate
 - Arrow indicators for trend comparison
 - Clear snapshot of business health
-- <a href="https://github.com/ms25-exp/Ecommerce_Customer_Churn_Analysis/blob/main/Visual%201.png">View Dashboard </a>
+- <a href="https://raw.githubusercontent.com/ms25-exp/Ecommerce_Customer_Churn_Analysis/refs/heads/main/Visual%201.png"> </a>
 
 ### 🔹 Slide 2: Segment Analysis
 - Slicers for Region, Product Category, Tenure
