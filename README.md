@@ -1,15 +1,37 @@
-# 📊 E-commerce Customer Churn Dashboard
+# 📊 E-commerce Customer Churn Analysis | SQL + Python + Power BI
 
-## 🔍 Project Overview
-This Power BI dashboard delivers executive-level insights into customer churn for an e-commerce platform. It empowers stakeholders to explore retention trends, product performance, and customer behavior through dynamic visuals and intuitive navigation.
+## 💼 Business Problem
+Customer churn poses a significant challenge to e-commerce businesses, impacting revenue and long-term growth. Understanding churn patterns and identifying retention drivers is essential for strategic decision-making.
 
-## 🧰 Tech Stack
-- **Power BI**: Interactive dashboard design, KPI cards, slicers, and layout logic
-- **DAX**: Advanced measures for churn/retention ratios, conditional formatting, and UNICHAR indicators
-- **GitHub**: Version control and project publishing
+# 🎯 Objective
+- This project focuses on analyzing customer behavior data to:
+- Identify key factors contributing to customer churn
+- Segment customers based on churn risk
+- Track churn trends across different customer groups
+- Provide actionable insights to support retention strategies
 
-## 🗂️ Data Source
+## 🗂️ Data Overview
+The dataset includes customer-level information such as:
+- Demographics (Age, Gender)
+- Purchase behavior (Order frequency, product category, payment method)
+- Customer activity and engagement
+- Churn status (Retained vs Churned)
+##🔗 Dataset Source:
 [E-commerce Customer Behavior Analysis Dataset](https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis)
+
+
+## 🧰 Tools & Technologies
+- **SQL** – Data extraction and querying
+- **Python** (Pandas, NumPy) – Data cleaning and exploratory analysis
+- **Power BI** – Interactive dashboard and visualization
+- **DAX** – KPI calculations and dynamic measures
+
+## 🔍 Approach
+- Performed data cleaning and preprocessing to handle missing values and inconsistencies
+- Conducted exploratory data analysis to understand churn distribution and customer behavior
+- Analyzed key features influencing churn such as purchase frequency, demographics, and product categories
+- Built an interactive Power BI dashboard to monitor churn trends and segment-wise performance
+
 
 ## ✨ Feature Highlights
 - Dynamic KPI cards with conditional formatting and arrow indicators
@@ -17,18 +39,11 @@ This Power BI dashboard delivers executive-level insights into customer churn fo
 - Clean layout with intuitive navigation and filter panels
 - Visual storytelling across churn, retention, revenue, and product performance
 
-## 💼 Business Problem
-Customer churn poses a significant challenge to e-commerce businesses, impacting revenue and long-term growth. Understanding churn patterns and identifying retention drivers is essential for strategic decision-making.
 
 
-## 🎯 Goal of the Dashboard
-To deliver actionable insights into churn behavior, enabling business leaders to:
-- Monitor churn trends across key segments
-- Identify high-risk customer cohorts
-- Evaluate product performance and retention strategies
+
 
 ## 🖼️ Slide-by-Slide Walkthrough
-
 ### 🔹 Slide 1: Ecommerce Customer Churn Overview
 - KPIs: Total Customers, Churn %, Retention %, Retention Prediction
 - Revenue metrics with YOY growth and category breakdown
@@ -58,9 +73,7 @@ To deliver actionable insights into churn behavior, enabling business leaders to
 3. Use insights to inform retention campaigns and product decisions
 4. <a href="https://github.com/ms25-exp/Ecommerce_Customer_Churn_Analysis/blob/main/ecommerce%20project.pbix"> Power BI Desktop Report </a>
 
-
 ## 📈 Project Insights
-
 - Customers with shorter tenure and lower purchase frequency showed higher churn rates.
 - Certain product categories and regions exhibited stronger retention patterns, suggesting targeted loyalty potential.
 - Dynamic KPIs and contextual slicers enabled granular exploration of churn behavior across customer segments.
